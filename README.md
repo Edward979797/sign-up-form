@@ -1,1 +1,2 @@
 # sign-up-form
+This mock sign-up form is built using more intermediate/advanced HTML & CSS concepts, including form control, background images, positioning, etc. In addition, some minor DOM manipulation was implemented in order to program the logic behind the 'password' and 'confirm password' entry fields.
